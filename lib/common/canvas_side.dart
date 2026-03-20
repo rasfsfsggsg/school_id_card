@@ -1,0 +1,4 @@
+enum CanvasSide {
+  front,
+  back,
+}

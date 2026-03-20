@@ -1,0 +1,5 @@
+enum CanvasOrientation {
+  horizontal,
+  vertical,
+
+}
