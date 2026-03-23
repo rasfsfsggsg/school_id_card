@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
-/// FontManager (Internal, remove cate/font_manager import)
 class FontManager {
   static final Map<String, String> fontFamilies = {
     'Liberation Sans': 'LiberationSans',

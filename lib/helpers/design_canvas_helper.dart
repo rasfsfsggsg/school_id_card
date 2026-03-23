@@ -18,9 +18,6 @@ class DesignCanvasHelper {
     );
   }
 
-  // =========================================================
-  // ARROW MOVE
-  // =========================================================
 
   static void handleArrow({
     required KeyEvent event,
